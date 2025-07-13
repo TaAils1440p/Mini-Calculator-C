@@ -2,7 +2,7 @@
 CC = gcc
 
 # Source file and output executable
-SRC = mini_calculator.c
+SRC = main.c
 OUT = mini_calculator
 
 # Compiler flags (add -Wall for warnings)
