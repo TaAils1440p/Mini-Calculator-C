@@ -76,7 +76,7 @@ Do you want to perform another calculation? (y/n): y
 ## 📁 Files
 | File                | Description           |
 | ------------------- | --------------------- |
-| `mini_calculator.c` | Main C source code    |
+| `main.c`            | Main C source code    |
 | `Makefile`          | Build automation file |
 | `README.md`         | Project documentation |
 
