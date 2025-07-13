@@ -20,8 +20,8 @@ This project demonstrates basic C syntax, user input handling, conditional logic
 ### 1. Clone or download the project
 
 ```bash
-git clone repo_url
-cd reponame
+git clone https://github.com/TaAils1440p/Mini-Calculator-C.git
+cd Mini-Calculator-C
 ```
 
 ### 2. Compile using make
